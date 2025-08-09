@@ -7,6 +7,7 @@ import javax.swing.JOptionPane;
 //segunda prueba, cris es pvt0.
 //cuarta parte 
 //olaf es un cachudo
+//olaf me la fela
 public class frmInicioSesion extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(frmInicioSesion.class.getName());
